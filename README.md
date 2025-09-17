@@ -9,3 +9,4 @@ Esta planilha automatizada foi desenvolvida para facilitar o processo de gerenci
 - Simplicidade e Facilidade de Uso: A interface foi projetada para ser simples e fácil de usar, sem a necessidade de conhecimentos avançados em Excel ou outro software. Basta preencher os campos e a planilha faz o resto!
 
 A solução foi pensada para otimizar a gestão das salas, oferecendo uma visão geral rápida e precisa sobre as reservas e garantindo uma experiência de uso eficiente e sem complicações.
+<img width="1732" height="236" alt="image" src="https://github.com/user-attachments/assets/50c1676b-4aef-4642-85bf-91fbec272e40" />
