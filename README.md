@@ -1,4 +1,4 @@
-# PROJETO-EXCEL---Vers-o-0.01
+# PROJETO-EXCEL-Versão-o-0.01
 projeto criado a partir de uma ideia simples, suprir a necessidade, rapida e pratica
 
 Esta planilha automatizada foi desenvolvida para facilitar o processo de gerenciamento e controle das reservas das salas de estudo. Ela apresenta de maneira clara e intuitiva os seguintes elementos:
